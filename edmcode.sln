@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "edmcode", "edmcode\edmcode.csproj", "{A2026A85-0AFA-4BF0-A2E2-BD69821E69D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2026A85-0AFA-4BF0-A2E2-BD69821E69D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2026A85-0AFA-4BF0-A2E2-BD69821E69D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2026A85-0AFA-4BF0-A2E2-BD69821E69D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2026A85-0AFA-4BF0-A2E2-BD69821E69D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06C5CD2C-916E-43E9-BC1F-B9483D3E0425}
+	EndGlobalSection
+EndGlobal
